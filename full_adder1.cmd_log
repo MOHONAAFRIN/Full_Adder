@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vlsi/assignment1/full_adder1.xst" -ofn "/home/ise/vlsi/assignment1/full_adder1.syr" 
